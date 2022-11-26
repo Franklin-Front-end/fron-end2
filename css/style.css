@@ -180,7 +180,7 @@ section.main {
     top: 1560px;
     width: 100%;
     background: #ffffff;
-    
+
 
 }
 
@@ -195,14 +195,14 @@ section.main {
     font-size: 37px;
     line-height: 300px;
     color: #009688;
-    
+
 }
 
 .sec3 div {
     display: inline-block;
     padding: 160px;
     padding-top: 0%;
-    
+
 }
 
 .sec3 h1 {
@@ -223,21 +223,21 @@ section.main {
 }
 
 .sec3 h2 {
-font-family: 'Nunito';
-font-style: normal;
-font-weight: 700;
-font-size: 18px;
-line-height: 25px;
-color: #000000;
-padding-top: 5px;
-margin-right: 70px;
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 25px;
+    color: #000000;
+    padding-top: 5px;
+    margin-right: 70px;
 
 }
 
 .sec3 img {
     padding-top: 30px;
     margin-right: 20px;
-    
+
 }
 
 .sec4 {
@@ -259,15 +259,15 @@ margin-right: 70px;
     font-weight: 700;
     font-size: 37px;
     line-height: 300px;
-    color: #009688;   
-    
+    color: #009688;
+
 }
 
 .sec4 article {
     display: inline-block;
     padding: 70px;
     padding-top: 100px;
-    
+
 }
 
 .sec4 article p {
@@ -282,7 +282,7 @@ margin-right: 70px;
 
 }
 
-.sec4  > article > h1 {
+.sec4>article>h1 {
     font-family: 'Ubuntu';
     font-style: normal;
     font-weight: 300;
@@ -296,9 +296,7 @@ margin-right: 70px;
 }
 
 .sec4 img {
-   margin-top: 150px;
-   width: 319px;
-   height: 193px;
+    margin-top: 150px;
+    width: 319px;
+    height: 193px;
 }
-
-  
