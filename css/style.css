@@ -183,10 +183,10 @@ section.main {
     top: 1560px;
     width: 100%;
     background: #ffffff;
-    
+
 }
 
-.sec3 > P {
+.sec3>P {
     width: 100%px;
     height: 50px;
     left: 128px;
@@ -201,7 +201,7 @@ section.main {
 
 .sec3 h1 {
     display: contents;
-    width: 100%; 
+    width: 100%;
     font-family: 'Nunito';
     font-style: normal;
     font-weight: 300;
