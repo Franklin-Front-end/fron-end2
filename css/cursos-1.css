@@ -159,6 +159,7 @@ nav div{
 	font-size: 20px;
 }
 
+          /* cursos-1 */
 main {
 	padding: 81px 82px 81px 82px;
 }
@@ -168,6 +169,9 @@ main {
 	font-size: 60px;
 	font-weight: 700;
 }
+
+
+
 
 article {
 	display: flex;
@@ -208,12 +212,61 @@ button {
 	cursor: pointer;
 	font-size: 20px;
 }
+button a{
+	text-decoration: none;
+	color: #fff;
+	}
 
 .borda {
 	border-bottom: 5px solid #C4C4C4;
 }
 
 
+       /* cursos-2 */
+
+ 
+ #cursos-2{
+		display: flex;
+		justify-content: space-between;
+		padding-left: 110px;
+		padding-bottom: 56px;
+	}
+	section img{
+		padding-right: 120px;
+	}
+
+	section div p{
+		max-width: 461px;
+		line-height: 21px;
+	}
+	   section h1{
+		color: #FF4081;
+	font-size: 60px;
+	font-weight: 700;
+	max-width: 512px;
+	/* padding-bottom: 30px; */
+
+	   }
+
+	  .videos article{
+		display: flex;
+		justify-content: space-between;
+		padding-left: 110px;
+	   }
+
+	   .videos article h2{
+             
+	    }
+	  .videos article p{
+		max-width: 501px;
+		max-height: 195px;
+		
+	   }
+
+	   .borda-2{
+		border-bottom: 3px solid #C4C4C4;
+		padding-bottom: 80px;
+	   } 
 
 
 
