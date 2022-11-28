@@ -181,12 +181,20 @@ section.main {
     width: 100%;
     background: #ffffff;
 
+<<<<<<< HEAD
+}
+
+.sec3>P {
+    width: 100%px;
+    height: 50px;
+=======
 
 }
 
 .sec3 P {
     width: 100%;
     height: 250px;
+>>>>>>> 7467f6746e5baf812cca05771140349fe97d421c
     left: 128px;
     padding-right: 900px;
     font-family: 'Nunito';
@@ -206,6 +214,10 @@ section.main {
 }
 
 .sec3 h1 {
+<<<<<<< HEAD
+    display: contents;
+    width: 100%;
+=======
     display: inline-block;
     text-align: justify;
     max-width: 520px;
@@ -213,6 +225,7 @@ section.main {
     height: 71.62px;
     left: 840px;
     top: 1997px;
+>>>>>>> 7467f6746e5baf812cca05771140349fe97d421c
     font-family: 'Nunito';
     font-style: normal;
     font-weight: 300;
@@ -220,6 +233,8 @@ section.main {
     line-height: 25px;
     color: #000000;
 
+<<<<<<< HEAD
+=======
 }
 
 .sec3 h2 {
@@ -299,4 +314,5 @@ section.main {
     margin-top: 150px;
     width: 319px;
     height: 193px;
+>>>>>>> 7467f6746e5baf812cca05771140349fe97d421c
 }
