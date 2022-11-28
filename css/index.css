@@ -1,0 +1,372 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Raleway', sans-serif;
+}
+
+section.main {
+    background-position: center;
+    padding: 20px 0 80px 0;
+    background: #2E948A;
+    box-shadow: 0px 3px 7px rgba(0, 0, 0, 0.25);
+}
+
+.logo-menu img {
+    display: flex;
+    width: 164px;
+    height: 50px;
+    top: 25px;
+    margin-left: 200px;
+}
+
+.items-menu {
+    display: flex;
+    position: absolute;
+    width: 164px;
+    height: 64px;
+    right: 300px;
+    top: 35px;
+}
+
+.items-menu a {
+    display: flex;
+    font-weight: bold;
+    color: white;
+    text-decoration: none;
+    display: inline-block;
+    margin: 0 10px;
+
+}
+
+.sec1 {
+    display: flex;
+    background-position: center;
+    background: #fff;
+    width: 100%;
+
+}
+
+.sec1 p {
+    position: absolute;
+    width: 488px;
+    left: 400px;
+    top: 242px;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 69px;
+    color: #FF4081;
+}
+
+.sec1 h1 {
+    position: absolute;
+    width: 300px;
+    height: 62px;
+    left: 401px;
+    top: 477px;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 27px;
+    line-height: 31px;
+    color: #555555;
+
+}
+
+.sec1 h2 {
+    position: absolute;
+    width: 216px;
+    height: 20.27px;
+    left: 40px;
+    top: 5.5px;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 27px;
+    line-height: 31px;
+    color: #FF4081;
+
+
+
+}
+
+.circle {
+    box-sizing: border-box;
+    position: absolute;
+    width: 268px;
+    height: 51px;
+    left: 410px;
+    top: 577px;
+    border: 2px solid #FF4081;
+    border-radius: 62px;
+
+}
+
+
+.sec1 img {
+    background: #ffffff;
+    border: 2px solid #ffffff;
+    width: 511px;
+    height: 501px;
+    margin: 160px 1300px;
+
+}
+
+.sec2 {
+    text-align: center;
+    position: absolute;
+    width: 1440px;
+    height: 730px;
+    left: 0px;
+    top: 829px;
+    width: 100%;
+    background: #F7F7F7;
+}
+
+.sec2 article {
+    display: inline-block;
+    padding: 110px;
+    padding-top: 120px;
+
+}
+
+.sec2 article p {
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 29px;
+    color: #FF4081;
+
+}
+
+.sec2 article h1 {
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 17px;
+    line-height: 20px;
+    color: #000000;
+    width: 256px;
+    margin: 10px;
+    margin-left: 10px;
+}
+
+.sec2 a {
+    -webkit-border-radius: 2000px;
+    -moz-border-radius: 20000px;
+    border-radius: 20px;
+    height: 200px;
+    height: 0;
+    line-height: 120px;
+    color: #FFFFFF;
+    font-family: Arial;
+    width: 159px;
+    font-size: 20px;
+    font-weight: 100;
+    padding: 14px 60px;
+    background-color: #FF4081;
+    text-decoration: none;
+    cursor: pointer;
+    text-align: center;
+}
+
+.sec3 {
+    text-align: center;
+    position: absolute;
+    top: 1560px;
+    width: 100%;
+    background: #ffffff;
+
+
+}
+
+.sec3 P {
+    width: 100%;
+    height: 250px;
+    left: 128px;
+    padding-right: 900px;
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 37px;
+    line-height: 300px;
+    color: #009688;
+
+}
+
+.sec3 div {
+    display: inline-block;
+    padding: 160px;
+    padding-top: 0%;
+
+}
+
+.sec3 h1 {
+    display: inline-block;
+    text-align: justify;
+    max-width: 520px;
+    width: 363px;
+    height: 71.62px;
+    left: 840px;
+    top: 1997px;
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 25px;
+    color: #000000;
+
+}
+
+.sec3 h2 {
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 25px;
+    color: #000000;
+    padding-top: 5px;
+    margin-right: 70px;
+
+}
+
+.sec3 img {
+    padding-top: 30px;
+    margin-right: 25px;
+
+}
+
+.sec4 {
+    text-align: center;
+    position: absolute;
+    width: max-content;
+    height: 730px;
+    left: 0px;
+    top: 2350px;
+    width: 100%;
+    background: #F7F7F7;
+}
+
+.p1 p {
+    margin-right: 900px;
+    height: 20px;
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 37px;
+    line-height: 300px;
+    color: #009688;
+
+}
+
+.sec4 article {
+    display: inline-block;
+    padding: 70px;
+    padding-top: 100px;
+
+}
+
+.sec4 article p {
+    text-align: justify;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 29px;
+    color: #009688;
+    margin-left: 50px;
+
+}
+
+.sec4>article>h1 {
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 17px;
+    line-height: 20px;
+    color: #000000;
+    width: 400px;
+    margin: 10px;
+    text-align: justify;
+    padding-left: 40px;
+}
+
+.sec4 img {
+    margin-top: 150px;
+    width: 319px;
+    height: 193px;
+}
+
+#footer {
+    width: 100%;
+    padding: 0;
+    flex-direction: column;
+    align-content: center;
+    align-items: center;
+    background-color: #2e948a;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    font-family: 'Segoe UI';
+    padding: 50px;
+    position: absolute;
+    width: max-content;
+    height: 160px;
+    left: 0px;
+    top: 3085px;
+    width: 100%;
+}
+
+#footer img {
+    margin-top: 15px;
+    width: 190px;
+    height: 70px;
+}
+
+#footer .nav ul {
+    display: flex;
+    flex-direction: column;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    
+
+}
+
+#footer .nav ul a {
+  text-decoration: none;
+    
+}
+
+#footer .sec5 ul a {
+    text-decoration: none;
+
+}
+
+#footer .nav ul li {
+    display: flex;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    color: #FFFFFF;
+    align-items: space-between;
+    align-content: space-around;
+    padding: 7px;
+}
+
+#footer .sec5 ul li {
+
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;
+    color: #FFFFFF;
+    border: 2px solid #FFFFFF;
+    border-radius: 62px;
+    box-sizing: border-box;
+    padding: 10px;
+    margin: 9px;
+    list-style: none;
+}
