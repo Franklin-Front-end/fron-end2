@@ -300,3 +300,74 @@ section.main {
     width: 319px;
     height: 193px;
 }
+
+#footer {
+    width: 100%;
+    padding: 0;
+    flex-direction: column;
+    align-content: center;
+    align-items: center;
+    background-color: #2e948a;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    font-family: 'Segoe UI';
+    padding: 50px;
+    position: absolute;
+    width: max-content;
+    height: 160px;
+    left: 0px;
+    top: 3085px;
+    width: 100%;
+}
+
+#footer img {
+    margin-top: 15px;
+    width: 190px;
+    height: 70px;
+}
+
+#footer .nav ul {
+    display: flex;
+    flex-direction: column;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    
+
+}
+
+#footer .nav ul a {
+  text-decoration: none;
+    
+}
+
+#footer .sec5 ul a {
+    text-decoration: none;
+
+}
+
+#footer .nav ul li {
+    display: flex;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    color: #FFFFFF;
+    align-items: space-between;
+    align-content: space-around;
+    padding: 7px;
+}
+
+#footer .sec5 ul li {
+
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;
+    color: #FFFFFF;
+    border: 2px solid #FFFFFF;
+    border-radius: 62px;
+    box-sizing: border-box;
+    padding: 10px;
+    margin: 9px;
+    list-style: none;
+}
