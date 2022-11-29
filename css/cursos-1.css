@@ -136,6 +136,14 @@ body {
 
 }
 
+#container{
+	max-width: 1440px;
+	box-sizing: border-box;
+}
+header{
+	min-height: 100px;
+}
+
 nav {
 	background-color: #2E948A;
 	display: flex;
@@ -157,6 +165,7 @@ nav div {
 	font-weight: 700;
 	padding: 20px;
 	font-size: 20px;
+	text-transform: uppercase;
 }
 
 /* cursos-1 */
@@ -302,3 +311,39 @@ footer span {
 	text-align: center;
 	cursor: pointer;
 }
+
+@media (max-width: 910px) {
+
+	article{
+		flex-direction: column;
+	}
+}
+ 
+@media (max-width: 550px ) {
+
+
+
+
+article img{
+	max-width: 380px;
+	
+}
+
+
+}
+
+/* @media (max-width :800px) {
+
+       header nav {
+		display: flex;
+		flex-direction: column;
+	   }
+     nav a	{
+          display: flex;
+		  flex-direction: column;
+		  
+		
+	 } */
+
+
+ 
